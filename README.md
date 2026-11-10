@@ -6,7 +6,7 @@ A personal portfolio website for Aina Liaqat, a BS Artificial Intelligence stude
 
 ## About
 
-This site presents my education, skills, projects, certificates and goals. It is built with plain HTML, CSS and JavaScript, with a 3D animated background made in Three.js.
+This site presents my education, skills, projects and goals. It is built with plain HTML, CSS and JavaScript, with a 3D animated background made in Three.js.
 
 ## Features
 
@@ -25,10 +25,9 @@ This site presents my education, skills, projects, certificates and goals. It is
 3. Education
 4. Skills
 5. Projects
-6. Certificates
-7. How I work
-8. Goals
-9. Contact
+6. How I work
+7. Goals
+8. Contact
 
 ## Built with
 
